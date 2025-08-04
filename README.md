@@ -1,1 +1,2 @@
-https://roadmap.sh/projects/single-page-cv
+[project URL](https://roadmap.sh/projects/single-page-cv)
+**The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML.**
