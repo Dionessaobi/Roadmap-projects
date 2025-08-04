@@ -1,0 +1,113 @@
+body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+        
+        .cv-container {
+            background-color: white;
+            padding: 40px;
+            border: 3px solid black;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        
+        .header-line {
+            border-top: 3px solid black;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin: 20px 0 10px 0;
+            color: black;
+            font-weight: normal;
+        }
+        
+        .job-title {
+            color: #4a9d4a;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        
+        .contact-info {
+            margin-bottom: 30px;
+            color: #333;
+        }
+        
+        .contact-info p {
+            margin: 5px 0;
+        }
+        
+        .section-title {
+            color: #4a9d4a;
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        
+        .company-name {
+            color: #4169e1;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .date-range {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .achievements {
+            margin: 10px 0;
+        }
+        
+        .achievements ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        
+        .achievements li {
+            margin: 5px 0;
+        }
+        
+        .skills-text {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        .skills-gained {
+            color: #333;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .across-internet {
+            margin-top: 30px;
+        }
+        
+        .links {
+            color: #333;
+            margin-top: 2px;
+        }
+
+        .small-img {
+        width: 150px;
+        height: auto;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                padding: 20px;
+            }
+            
+            .cv-container {
+                box-shadow: none;
+                border: 2px solid black;
+            }
+        }
